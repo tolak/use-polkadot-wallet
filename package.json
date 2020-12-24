@@ -1,0 +1,9 @@
+{
+  "name": "use-polkadot-wallet",
+  "version": "0.1.0",
+  "description": "A react hook used to connect dapp and polkadot.js browser extension",
+  "main": "index.tsx",
+  "repository": "https://github.com/tolak/use-polkadot-wallet.git",
+  "author": "Wenfeng Wang",
+  "license": "MIT"
+}
